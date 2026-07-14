@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jiangmen-drain-guide.peiqirui.com/sitemap.xml
